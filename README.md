@@ -142,6 +142,11 @@ Putting everything we learned to practice
 [More details](week_7_project)
 
 
+### Workshop: Maximizing Confidence in Your Data Model Changes with dbt and PipeRider
+
+
+[More details](cohorts/2023/workshops/piperider.md)
+
 ## Overview
 
 ### Architecture diagram
@@ -219,6 +224,13 @@ Thanks to the course sponsors for making it possible to create this course
     <img height="100" src="https://github.com/DataTalksClub/mlops-zoomcamp/raw/main/images/prefect.png">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://www.piperider.io/">
+    <img height="130" src="images/piperider.png">
+  </a>
+</p>
+
 
 Do you want to support our course and our community? Please reach out to [alexey@datatalks.club](alexey@datatalks.club)
 
